@@ -1,0 +1,2 @@
+# CLIC
+CLIC Plugins
